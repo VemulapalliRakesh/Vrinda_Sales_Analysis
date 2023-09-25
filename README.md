@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <body>
     <h1>Welcome to Vrinda Store Sales Insights for 2023</h1>
+    <h2>Introduction:</h2>
+    <p>This project is about Vrinda Store, a retail establishment aiming to gain valuable insights into their sales data. By analyzing this data, Vrinda Store intends to make data-driven decisions to boost sales and profitability in the year 2023.</p>
     <h2>Insights:</h2>
     <ul>
         <li>The highest number of orders and sales occurred in March 2022, while the lowest sales were recorded in November.</li>
@@ -22,6 +22,3 @@
         <li>Introduce a winter collection to boost sales in November and December, focusing on women customers.</li>
         <li>Provide a wide range of winter wear options to cater to customer preferences.</li>
     </ul>
-
-
-
